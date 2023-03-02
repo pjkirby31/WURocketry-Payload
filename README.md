@@ -2,4 +2,4 @@
 
 Contains CAD files and other structural documentation
 
-![image](https://github.com/pjkirby31/WURocketry-Payload/blob/942b066bfba5d7fd08e61df3b6aabb061e3f88dc/Payload%20Screenshot.jpg)
+![image](https://github.com/pjkirby31/WURocketry-Payload/blob/615683c80f387f165d417ca95f54cda170b87233/Payload%20Screenshot.JPG)
